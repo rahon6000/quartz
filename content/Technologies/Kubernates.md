@@ -127,3 +127,26 @@ Persistent Volume Claim 을 통해 연결됨. (인터페이스라 생각하셈)
 
 storageClassName 에 빈값을 넣는지, "" 를 넣는지, PV 네임을 넣는지에 따른 동작이 다름.
 
+
+
+## Deployments
+
+### replicas
+
+
+
+# 중요한 서버, 인스턴스
+
+## Api server
+
+## Metric server
+
+## Controller
+
+
+
+
+
+
+
+
